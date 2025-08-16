@@ -1,10 +1,7 @@
 ## Hi there 👋 It's me Koushik Rajan
 ### Computer science student @Hindusthan institute of technology
-
-- 🔭 Here's my [portfolio]()                                                 
+                                            
 - 🌱 I’m currently learning application development and web development
-- Social Presence
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]() <br/> 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
