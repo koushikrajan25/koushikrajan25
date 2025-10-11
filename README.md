@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning application development and web development
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://raw.githubusercontent.com/koushikrajan25/PortfolioModel-2/e73e9780fbf0912f7c5f677ffeec0333fecd23d0/assets/Skill_icons/Kotlin-Light.svg" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### IDE and Tools I Use
